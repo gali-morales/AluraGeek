@@ -1,0 +1,15 @@
+{
+  "name": "alurageek-challenge",
+  "version": "1.0.0",
+  "description": "Página en la que puedes subir productos a un catálogo",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Galilea Morales",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
