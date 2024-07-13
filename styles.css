@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Quicksand';
-    src: url("quicksand/Quicksand-VariableFont_wght.ttf") format('truetype');
+    src: url("./src/quicksand/Quicksand-VariableFont_wght.ttf") format('truetype');
     font-style: normal;
   }
 
